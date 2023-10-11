@@ -1,0 +1,1 @@
+This is a text file created on dekstop and git is initialized on desktop as well. Now it will be pushed to the git repo using commands.
